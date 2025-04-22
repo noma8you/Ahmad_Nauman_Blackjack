@@ -1,10 +1,12 @@
 #BlackJack C++ Project - BY Nauman Ahmad
 
 This is a simple Blackjack game made in C++ where 1-4 players can play against a dealer (Programmed AI). 
-You can compile the code using a C++ compiler. There are 3 files.
 
 HOW TO PLAY
-Please download the files to run the game. 
+Please download the files or clone the repository to run the game. 
+Open a terminal in the project folder.
+Compile the code using a C++ compiler.
+GAMEPLAY
 Choose the number of players (1-4)
 When your turn comes, you can choose to HIT to draw a new card or STAY to stop
 If you draw an ACE, you can choose its value to be 1 or 11
