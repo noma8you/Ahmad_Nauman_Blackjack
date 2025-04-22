@@ -4,6 +4,7 @@ This is a simple Blackjack game made in C++ where 1-4 players can play against a
 You can compile the code using a C++ compiler. There are 3 files.
 
 HOW TO PLAY
+Please download the files to run the game. 
 Choose the number of players (1-4)
 When your turn comes, you can choose to HIT to draw a new card or STAY to stop
 If you draw an ACE, you can choose its value to be 1 or 11
