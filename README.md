@@ -3,7 +3,7 @@
 This is a simple Blackjack game made in C++ where 1-4 players can play against a dealer (Programmed AI). 
 
 HOW TO PLAY
-Please download the files or clone the repository to run the game. 
+Please download the files (main.cpp, funs.h and funs.cpp) or clone the repository to run the game. 
 Open a terminal in the project folder.
 Compile the code using a C++ compiler.
 GAMEPLAY
